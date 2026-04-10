@@ -15,4 +15,4 @@
 ## How to Run
 - Run via IntelliJ: Right-click test class -> Run
 - Run via Maven:
-  mvn test
+  mvn test 
